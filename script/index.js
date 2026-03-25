@@ -13,3 +13,5 @@ function isValidPassword (password, username) {
 }
 
 console.log(isValidPassword('Hotdog2010', 'tilda21'));
+
+console.log(isValidPassword('Hotdog 2021','tilda21' ));
